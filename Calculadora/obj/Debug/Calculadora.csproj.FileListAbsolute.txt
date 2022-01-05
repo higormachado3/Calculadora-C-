@@ -1,0 +1,10 @@
+H:\Programas C++\Calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+H:\Programas C++\Calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
+H:\Programas C++\Calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+H:\Programas C++\Calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+H:\Programas C++\Calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+H:\Programas C++\Calculadora\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+H:\Programas C++\Calculadora\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+H:\Programas C++\Calculadora\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+H:\Programas C++\Calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+H:\Programas C++\Calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
